@@ -1,0 +1,20 @@
+/*Shared home page Styles */
+
+.home-page {
+    margin: 5%;
+    padding: 2%;
+    
+    /* The core glass blur effect */
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+    /* Safari support */
+
+    /* Soft border representing light catching the glass edge */
+    border: 1px solid rgba(255, 255, 255, 0.25);
+
+    /* Smooth corners look best with glass */
+    border-radius: 16px;
+
+    /* Adds depth and shadows underneath the pane */
+    box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.15);
+}

@@ -1,0 +1,19 @@
+.menu-bar {
+    justify-content: space-around;
+    font-size: 19px;
+}
+
+.navigation-link {
+    letter-spacing: -0.02em;
+    line-height: 0.7;
+    text-decoration: none;
+    text-align: end;
+    transition: transform 0.2s ease;
+}
+
+.navigation-link:hover {
+    color: rgb(96, 160, 233);
+    text-decoration: underline;
+    text-underline-offset: 3px;
+    transform: scale(1.03);
+}

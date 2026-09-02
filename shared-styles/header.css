@@ -1,0 +1,43 @@
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.full-name {
+    font-size: x-large;
+     letter-spacing: -0.05em;
+}
+
+.job-title {
+    place-self: end;
+    font-style: italic;
+    font-size: 14px;
+}
+
+@keyframes spin {
+    from {
+        transform: rotate(0deg);
+    }
+
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+.logo-icon {
+    width: 42px;
+    animation: spin 4s linear infinite;
+}
+
+.brand-container {
+    gap: 17px;
+}
+
+.brand-container,
+.menu-bar {
+    display: flex;
+    flex: 1;
+    align-items: center;
+    padding: 2%;
+}
