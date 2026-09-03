@@ -1,11 +1,13 @@
+.home-mid-section{
+  margin-top: 64px;
+}
+
 .home-about-section {
-  padding: 3%;
-  margin-top: 20px;
   margin-bottom: 12px;
 }
 
 .advantages-about-section {
-  margin-top: 55px;
+  margin-top: 48px;
   display: flex;
   flex-wrap: wrap;
   gap: 25px;
@@ -44,10 +46,6 @@
   text-wrap: wrap;
 }
 
-.advantages-about-section-last-row {
-  border: none;
-}
-
 .contact-about-section {
   font-style: italic;
 }
@@ -55,8 +53,7 @@
 /*-------------- Plan section Styles ---------------*/
 
 .home-plans-section {
-  padding: 3%;
-  margin-top: 12px;
+  margin-top: 64px;
   margin-bottom: 12px;
 }
 
@@ -65,13 +62,9 @@
   gap: 12px;
 }
 
-.vitrine-infos,
-.portfolio-infos {
-  display: none;
-}
 
 .cards-container {
-  margin-top: 25px;
+  margin-top: 24px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -145,6 +138,7 @@
 }
 
 .plan-advantages{
+  margin-top: 48px;
   display: flex;
   flex-direction: column;
   gap: 8px;

@@ -1,6 +1,6 @@
 export function homeTopSectionAdvantages(){
     const html = `
-        <button class="advantages-title">Headlines</button>
+        <button class="advantages-title">Les Headlines</button>
             <div class='advantages-container'>
                 <div class='advantages'>               
                     Des solutions web adaptee a vos besoins &#10004;             
