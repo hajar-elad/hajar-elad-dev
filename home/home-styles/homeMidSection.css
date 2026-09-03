@@ -54,17 +54,18 @@
 
 .home-plans-section {
   margin-top: 64px;
-  margin-bottom: 12px;
+  margin-bottom: 16px;
 }
 
-.model-container {
+.plan-advantages{
+  margin-top: 40px;
   display: flex;
-  gap: 12px;
+  flex-direction: column;
+  gap: 8px;
 }
-
 
 .cards-container {
-  margin-top: 24px;
+  margin-top: 48px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -135,11 +136,4 @@
 .card-back-price {
   width: 100%;
   padding: 3%;
-}
-
-.plan-advantages{
-  margin-top: 48px;
-  display: flex;
-  flex-direction: column;
-  gap: 8px;
 }

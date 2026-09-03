@@ -1,7 +1,6 @@
 export function homeAboutSection(){
     const html = `
-        <h1><span class="title-dots"></span> Pourquoi un site web</h1>
-
+        <h1> Pourquoi un site web</h1>
 
     <div class="advantages-about-section">
         <div class="advantage-about-container">
@@ -46,7 +45,7 @@ export function homeAboutSection(){
 
 export function homePlansSection() {
     const html = `
-        <h1> <span class="title-dots"></span> Modeles & Pricing </h1>
+        <h1> Plans & Pricing </h1>
 
         <div class="plan-advantages">
                             <div >Design adapté à vos besoins</div>
