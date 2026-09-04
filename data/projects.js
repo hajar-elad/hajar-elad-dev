@@ -9,7 +9,7 @@ export const projects = [
     {
         id: 2,
         title: 'Coffee Shop - Vente - Portfolio',
-        firstImage: 'images/projects/work4.jpg',
+        firstImage: 'images/projects/work3.jpg',
         lastImage: 'images/projects/work4.jpg'
     },
 
