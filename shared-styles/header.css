@@ -2,11 +2,11 @@
     display: flex;
     align-items: center;
     justify-content: space-evenly;
+    gap: 40px;
 }
 
 .full-name {
-    font-size: x-large;
-     letter-spacing: -0.05em;
+    text-wrap: nowrap;
 }
 
 .job-title {

@@ -17,7 +17,7 @@ function projectsPage(){
     })
 
     html =` 
-        <h1 class="Project-Page-title">Projects</h1> 
+        <h1 class="Project-Page-title">Projects & TEMPLATES</h1> 
         ${html}
     `
     return html;
