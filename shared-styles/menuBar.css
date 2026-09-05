@@ -3,6 +3,17 @@
     font-size: 19px;
 }
 
+.menu-bar-icons{
+    display: none;
+    align-items: end;
+    justify-content: end;
+    gap: 16px;
+}
+
+.menu-icons{
+    width: 27px;
+}
+
 .navigation-link {
     letter-spacing: -0.02em;
     line-height: 0.7;
@@ -16,4 +27,16 @@
     text-decoration: underline;
     text-underline-offset: 3px;
     transform: scale(1.03);
+}
+
+@media (max-width: 750px) {
+   
+    .menu-bar{
+        display: none;
+    }
+    .menu-bar-icons {
+        display: flex;
+        z-index: 100;
+    }
+
 }
