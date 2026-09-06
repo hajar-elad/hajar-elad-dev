@@ -13,7 +13,7 @@
 
     /* Adds depth and shadows underneath the pane */
     box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.15);
-    min-height: 100vh;
+    min-height: 85vh;
 }
 
 .contact-section {
