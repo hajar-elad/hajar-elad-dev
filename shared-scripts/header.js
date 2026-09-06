@@ -6,7 +6,7 @@ export function header() {
                 <h1 class="full-name">Hajar El Adnani</h1>
                 <div class='job-title'>Web Developper - FreeLancer</div>
             </div>
-            <img src="images/icons/logoIcon.png" class="logo-icon"/>
+            <img src="images/icons/logoicon.png" class="logo-icon"/>
         </div>
         <div class="menu-bar">
             <a href="index.html" class="navigation-link" >Acceuil</a>

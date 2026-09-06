@@ -69,7 +69,7 @@ export function homePlansSection() {
 
                     <div class="pricing-card-back">
                         <div class='card-back-price'>
-                            2499.00 Dhs
+                            2199.00 Dhs
                         </div>
                     </div>
                 </div>
@@ -91,7 +91,7 @@ export function homePlansSection() {
             </div >
 
 
-            <div class="pricing-card-container">
+           <!-- <div class="pricing-card-container">
                 <div class="flip-card-inner">
                     <div class="pricing-card-front">
                             
@@ -105,7 +105,7 @@ export function homePlansSection() {
                         </div>
                     </div>
                 </div>
-            </div>
+            </div> -->
 
             
         </div>
