@@ -1,4 +1,4 @@
-.home-mid-section{
+.home-mid-section {
   margin-top: 64px;
 }
 
@@ -57,8 +57,42 @@
   margin-bottom: 16px;
 }
 
-.plan-advantages{
-  margin-top: 40px;
+.models-container {
+  margin-top: 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.model-name{
+  transition: color 0.3s ease, text-decoration 0.3s ease;
+  color: rgb(195, 228, 255);
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+.model-name:hover {
+  color: rgb(255, 220, 242);
+  
+}
+
+/*.model-container .model-description{
+  display: none;
+   opacity: 0;
+  transform: scale(0.9);
+  transition: 
+    display 1s allow-discrete, 
+    opacity 1s, 
+    transform 1s;
+}
+
+.model-container:hover .model-description{
+  display: block;
+  opacity: 1;
+  transform: scale(1);
+}*/
+
+.plan-advantages {
   display: flex;
   flex-direction: column;
   gap: 8px;
@@ -70,14 +104,13 @@
   align-items: center;
   justify-content: center;
   flex-wrap: wrap;
-  gap: 25px;
+  gap: 40px;
 }
 
 .pricing-card-container {
-
   background-color: transparent;
-  width: 200px;
-  height: 300px;
+  width: 240px;
+  height: 400px;
   perspective: 1000px;
   /* Crucial for the 3D depth effect */
 }
@@ -109,6 +142,7 @@
   border-radius: 25px;
   display: flex;
   flex-direction: column;
+  align-items: center;
   justify-content: space-around;
   border: solid 1px rgb(243, 197, 211);
 }
@@ -126,14 +160,17 @@
   /* Adds depth and shadows underneath the pane */
   box-shadow: 0 8px 32px 0 rgba(197, 190, 190, 0.15);
   justify-content: center;
+  color: rgb(195, 228, 255);
 }
 
 /* The back face is pre-rotated so it faces backwards initially */
 .pricing-card-back {
+  padding: 16px 0;
   transform: rotateY(180deg);
 }
 
 .card-back-price {
+  font-size: large;
   width: 100%;
   padding: 3%;
 }

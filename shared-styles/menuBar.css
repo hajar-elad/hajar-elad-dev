@@ -20,12 +20,12 @@
     text-decoration: none;
     text-align: end;
     transition: transform 0.2s ease;
+      text-decoration: underline;
+    text-underline-offset: 4px;
 }
 
 .navigation-link:hover {
     color: rgb(96, 160, 233);
-    text-decoration: underline;
-    text-underline-offset: 3px;
     transform: scale(1.03);
 }
 

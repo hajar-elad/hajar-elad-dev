@@ -26,17 +26,17 @@ function contactSection(){
                 <div>00212 701 13 12 13</div>
             </div>
             <div class="email">
-                <a href="mailto:hajar-elad@gmail.com">
+                <a href="mailto:hajar.elad@gmail.com">
                     <img src="" class="email-icon">
                 </a>
                 <div>hajar-elad@gmail.com</div>
             </div>
             <div class="email-colab">
                 <div>Collaborations:</div>
-                <a href="mailto:hajar-elad-colab@gmail.com">
+                <a href="mailto:hajar.elad@gmail.com">
                     <img src="" class="email-icon">
                 </a>
-                <div>hajar-elad-collabs@gmail.com</div>
+                <div>hajar.elad.collabs@gmail.com</div>
             </div>
             </div>`;
     
