@@ -58,22 +58,22 @@
 }
 
 .models-container {
-  margin-top: 16px;
+  margin-top: 30px;
   display: flex;
   flex-direction: column;
   gap: 12px;
 }
 
-.model-name{
+.model-name {
   transition: color 0.3s ease, text-decoration 0.3s ease;
-  color: rgb(195, 228, 255);
+  color: rgb(226, 207, 221);
   text-decoration: underline;
   text-underline-offset: 3px;
 }
 
 .model-name:hover {
   color: rgb(255, 220, 242);
-  
+
 }
 
 /*.model-container .model-description{
@@ -149,18 +149,19 @@
 
 /* Distinct styling for the front face */
 .pricing-card-front {
-  backdrop-filter: blur(12px);
-  -webkit-backdrop-filter: blur(12px);
-  /* Safari support */
+  background-image: linear-gradient(45deg,  rgb(171, 190, 214), rgb(73, 134, 153), rgb(179, 169, 228));
+  background-size: 200% 200%;
+  animation: animationBg 7s linear infinite;
 
   /* Soft border representing light catching the glass edge */
-  border: 1px solid rgba(255, 255, 255, 0.25);
+  border: 1px solid rgb(206, 202, 205);
   /* Smooth corners look best with glass */
   border-radius: 25px;
   /* Adds depth and shadows underneath the pane */
   box-shadow: 0 8px 32px 0 rgba(197, 190, 190, 0.15);
   justify-content: center;
-  color: rgb(195, 228, 255);
+  font-size: large;
+  color: rgb(226, 207, 221);
 }
 
 /* The back face is pre-rotated so it faces backwards initially */

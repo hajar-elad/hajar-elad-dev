@@ -57,7 +57,7 @@ export function homePlansSection() {
             <div class="model-container">
                 <h2 class="model-name">Site Catalog</h2>
                 <div class="model-description">
-                Un site web catalog se situe a mi-chemin entre un site vitrine et e-commerce, On 
+                Un site web catalog se situe a mi-chemin entre un site vitrine et e-commerce, On y 
                 presente une liste de produits statics (image, description,
                 caracteristiques..). 
                 <div>Le site ne propose pas de paiement en ligne et la commande est 
