@@ -24,7 +24,7 @@
     border: solid 1px rgb(158, 166, 236);
     border-radius: 50px;
     /*background-image: linear-gradient(to right, rgb(231, 229, 230), rgb(161, 117, 142), rgb(134, 88, 113), rgb(165, 35, 106));*/
-     background-image: linear-gradient(to right, rgb(231, 229, 230), rgb(181, 184, 238), rgb(151, 170, 221), rgb(125, 114, 180));
+    background-image: linear-gradient(to right, rgb(252, 230, 241), rgb(90, 129, 160));
     background-size: 150% 150%;
     animation: animationBg 7s linear infinite;
     transition: transform 0.3s ease;
