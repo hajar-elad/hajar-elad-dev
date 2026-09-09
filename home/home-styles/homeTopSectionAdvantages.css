@@ -12,7 +12,7 @@
     display: flex;
     flex-direction: column;
     gap: 16px;
-    font-size: 21px;
+    font-size: larger;
     max-width: 400px;
 }
 
@@ -20,6 +20,7 @@
     padding: 1% 0;
     font-size: large;
     font-weight: 500;
+    color: rgb(46, 1, 44);
     width: 50%;
     border: solid 1px rgb(158, 166, 236);
     border-radius: 50px;
@@ -29,7 +30,7 @@
     animation: animationBg 7s linear infinite;
     transition: transform 0.3s ease;
 }
-
+ 
 .advantages-title:hover {
     /*border-color: rgb(248, 177, 220);*/
     color: aliceblue;

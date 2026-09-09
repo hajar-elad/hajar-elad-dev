@@ -1,5 +1,6 @@
 import { projects } from "../data/projects.js";
 import { header } from "../shared-scripts/header.js";
+import {footer} from "../shared-scripts/footer.js"
 
 function projectsPage(){    
     let html = ``;
@@ -28,4 +29,7 @@ document.querySelector('.header')
 
 document.querySelector('.projects-page-section')
     .innerHTML = projectsPage();
+
+document.querySelector('.footer')
+    .innerHTML = footer();
  

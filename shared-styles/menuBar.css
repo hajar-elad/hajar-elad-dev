@@ -1,6 +1,7 @@
 .menu-bar {
     justify-content: space-around;
-    font-size: 19px;
+    font-size: 18px;
+    color: rgb(243, 221, 242);
 }
 
 .menu-bar-icons{

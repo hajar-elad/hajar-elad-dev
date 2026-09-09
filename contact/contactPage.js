@@ -1,4 +1,5 @@
 import { header } from "../shared-scripts/header.js";
+import { footer } from "../shared-scripts/footer.js";
 
 function contactSection(){
     const html = `
@@ -48,3 +49,6 @@ document.querySelector('.header')
 
 document.querySelector('.contact-section')
     .innerHTML = contactSection();
+
+document.querySelector('.footer')
+    .innerHTML = footer();

@@ -50,14 +50,14 @@ export function homePlansSection() {
             <div class="model-container">
                 <h2 class="model-name">Site Vitrine</h2>
                 <div class="model-description">
-                   Un site web vitrine ou portfolio represente les produits, services et activites d une 
+                   Un site vitrine ou portfolio represente les produits, services et activites d une 
                    entreprise. C est le premier point de contact pour les clients.
                 </div>
             </div>
             <div class="model-container">
                 <h2 class="model-name">Site Catalog</h2>
                 <div class="model-description">
-                Un site web catalog se situe a mi-chemin entre un site vitrine et e-commerce, On y 
+                Un site catalog se situe a mi-chemin entre un site vitrine et e-commerce, On y 
                 presente une liste de produits statics (image, description,
                 caracteristiques..). 
                 <div>Le site ne propose pas de paiement en ligne et la commande est 
@@ -71,8 +71,8 @@ export function homePlansSection() {
            <div class="pricing-card-container">
                 <div class="flip-card-inner">
                     <div class="pricing-card-front">
-                        <div>Portfolio</div>
-                        <div>Vitrine</div>
+                        <div>PORTFOLIO</div>
+                        <div>VITRINE</div>
                     </div>
 
                     <div class="pricing-card-back">
@@ -98,7 +98,7 @@ export function homePlansSection() {
             <div class="pricing-card-container">
                 <div class="flip-card-inner">
                     <div class="pricing-card-front">
-                        <div>Catalog</div>
+                        <div>CATALOG</div>
                     </div>
 
                     <div class="pricing-card-back">

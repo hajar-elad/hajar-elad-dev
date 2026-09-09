@@ -17,9 +17,8 @@ export function homeTopSectionAdvantages(){
         
             </div>
             <a class="message-link-advantages">
-                        &rArr; envoyer un message
+               &rArr; envoyer un message
             </a>
         `
-
    return html;
 }

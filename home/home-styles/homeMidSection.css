@@ -62,11 +62,12 @@
   display: flex;
   flex-direction: column;
   gap: 12px;
+  font-size: 17px;
 }
 
 .model-name {
   transition: color 0.3s ease, text-decoration 0.3s ease;
-  color: rgb(226, 207, 221);
+  color: rgb(238, 214, 229);
   text-decoration: underline;
   text-underline-offset: 3px;
 }
@@ -149,33 +150,20 @@
 
 /* Distinct styling for the front face */
 .pricing-card-front {
-  background-image: linear-gradient(45deg,  rgb(171, 190, 214), rgb(86, 157, 179));
-  background-size: 200% 200%;
-  animation: animationBg 7s linear infinite;
+  /* The core glass blur effect */
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  /* Safari support */
 
   /* Soft border representing light catching the glass edge */
-  border: 1px solid rgb(206, 202, 205);
+  border: 1px solid rgb(202, 201, 204);
   /* Smooth corners look best with glass */
-  border-radius: 25px;
+  border-radius: 16px;
   /* Adds depth and shadows underneath the pane */
-  box-shadow: 0 8px 32px 0 rgba(197, 190, 190, 0.15);
+  box-shadow: 0 4px 16px 0 rgba(0, 0, 0, 0.15);
   justify-content: center;
-  font-size: large;
-  color: rgb(226, 207, 221);
-}
-
-@keyframes animationBg {
-    0% {
-        background-position: 0% 50%;
-    }
-
-    50% {
-        background-position: 100% 50%;
-    }
-
-    100% {
-        background-position: 0% 50%;
-    }
+  
+  color: rgb(187, 181, 194);
 }
 
 /* The back face is pre-rotated so it faces backwards initially */
