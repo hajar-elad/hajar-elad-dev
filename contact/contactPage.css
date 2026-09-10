@@ -26,6 +26,21 @@
     gap: 48px;
 }
 
+.contact-link{
+    text-decoration: none;
+    color: rgb(247, 235, 246);
+}
+
+.contact-link:visited{
+    color: rgb(247, 235, 246);
+}
+
+.contact-us{
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+
 .map-container {
     border-radius: 10px;
     box-shadow: 0 0 35px 0 rgba(210, 227, 238, 0.699);

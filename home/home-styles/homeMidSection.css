@@ -156,7 +156,7 @@
   /* Safari support */
 
   /* Soft border representing light catching the glass edge */
-  border: 1px solid rgb(202, 201, 204);
+  border: 1px solid rgba(255, 255, 255, 0.25);
   /* Smooth corners look best with glass */
   border-radius: 16px;
   /* Adds depth and shadows underneath the pane */

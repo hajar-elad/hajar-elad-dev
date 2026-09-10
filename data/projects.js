@@ -1,14 +1,14 @@
 export const projects = [
     {
         id: 1,
-        title: 'Boulangerie - Vente - Vitrine',
+        title: 'Coffee Shop - Vente - Catalog',
         firstImage: 'images/projects/work1.jpg',
         lastImage: 'images/projects/work2.jpg'
     },
 
     {
         id: 2,
-        title: 'Coffee Shop - Vente - Catalog',
+        title: 'Boulangerie - Vente - Vitrine',
         firstImage: 'images/projects/work3.jpg',
         lastImage: 'images/projects/work4.jpg'
     },

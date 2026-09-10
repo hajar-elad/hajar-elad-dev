@@ -11,8 +11,12 @@
     gap: 16px;
 }
 
-.menu-icons{
+.menu-icons, .menu-icons-contact{
     width: 27px;
+}
+
+.menu-icons-contact{
+    width: 25px;
 }
 
 .navigation-link {

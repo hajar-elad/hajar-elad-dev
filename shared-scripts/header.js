@@ -10,14 +10,14 @@ export function header() {
         </div>
         <div class="menu-bar">
             <a href="index.html" class="navigation-link" >Acceuil</a>
-            <a href="projects.html" class="navigation-link">Realisations</a>
+            <a href="projects.html" class="navigation-link">R&eacute;alisations</a>
             <a href="contact.html" class="navigation-link">Contact</a>
         </div>
 
         <div class="menu-bar-icons">
             <a href="index.html" class="navigation-link" ><img src="images/icons/home-icon.png" class="menu-icons" title="Home"/></a>
             <a href="projects.html" class="navigation-link"><img src="images/icons/work-icon.png" class="menu-icons" title="Work"/></a>
-            <a href="contact.html" class="navigation-link"><img src="images/icons/contact-icon.png" class="menu-icons" title="Contact"/></a>
+            <a href="contact.html" class="navigation-link"><img src="images/icons/contact-icon.png" class="menu-icons-contact" title="Contact"/></a>
         </div>
         
     `

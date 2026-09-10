@@ -21,23 +21,20 @@ function contactSection(){
             <div class="contact-us">  
             <div> Contact:</div>
             <div class="phone-nbr">
-                <a href="https://wa.me/212701131213" target="_blank" title="Nous sommes joignable sur whatsapp">
-                    <img src="" class="whatsapp-icon">
+                <a href="https://wa.me/212701131213" class="contact-link" target="_blank" title="Je suis joignable sur whatsapp">
+                    00212 701 13 12 13
                 </a>
-                <div>00212 701 13 12 13</div>
             </div>
             <div class="email">
-                <a href="mailto:hajar.elad@gmail.com">
-                    <img src="" class="email-icon">
+                <a href="mailto:hajar.elad@gmail.com" class="contact-link">
+                    hajar-elad@gmail.com
                 </a>
-                <div>hajar-elad@gmail.com</div>
             </div>
             <div class="email-colab">
                 <div>Collaborations:</div>
-                <a href="mailto:hajar.elad@gmail.com">
-                    <img src="" class="email-icon">
+                <a href="mailto:hajar.elad@gmail.com" class="contact-link">
+                    hajar.elad.collabs@gmail.com
                 </a>
-                <div>hajar.elad.collabs@gmail.com</div>
             </div>
             </div>`;
     

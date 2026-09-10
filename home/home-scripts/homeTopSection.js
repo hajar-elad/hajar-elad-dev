@@ -3,10 +3,10 @@ export function homeTopSectionAdvantages(){
         <button class="advantages-title">Les Headlines</button>
             <div class='advantages-container'>
                 <div class='advantages'>               
-                    Des solutions web adaptee a vos besoins &#10004;             
+                    Des solutions web adapt&eacute;es &agrave; vos besoins &#10004;             
                 </div>
                 <div class='advantages'>
-                    Un site web securise &#10004;
+                    Un site web s&eacute;curis&eacute; &#10004;
                 </div>
                 <div class='advantages'>
                     Livraison rapide &#10004;
@@ -16,7 +16,7 @@ export function homeTopSectionAdvantages(){
                 </div>
         
             </div>
-            <a class="message-link-advantages">
+            <a href="https://wa.me/212701131213" class="whatsapp-icon-link" target="_blank" title="Je suis joignable sur whatsapp" class="message-link-advantages">
                &rArr; envoyer un message
             </a>
         `

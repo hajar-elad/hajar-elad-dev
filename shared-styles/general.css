@@ -29,8 +29,12 @@ h2 {
     margin-top: 1%;
 }
 
-:visited {
-    color: rgb(243, 221, 242);
+a{
+   color: rgb(247, 235, 246);
+}
+
+a:visited {
+   color: rgb(247, 235, 246);
 }
 
 @keyframes animationBg {

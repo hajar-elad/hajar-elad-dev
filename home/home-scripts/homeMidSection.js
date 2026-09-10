@@ -50,7 +50,7 @@ export function homePlansSection() {
             <div class="model-container">
                 <h2 class="model-name">Site Vitrine</h2>
                 <div class="model-description">
-                   Un site vitrine ou portfolio represente les produits, services et activites d une 
+                   Un site vitrine ou portfolio repr&eacute;sente les produits, services et activit&eacute;s d une 
                    entreprise. C est le premier point de contact pour les clients.
                 </div>
             </div>
@@ -58,10 +58,10 @@ export function homePlansSection() {
                 <h2 class="model-name">Site Catalog</h2>
                 <div class="model-description">
                 Un site catalog se situe a mi-chemin entre un site vitrine et e-commerce, On y 
-                presente une liste de produits statics (image, description,
+                pr&eacute;sente une liste de produits statics (image, description,
                 caracteristiques..). 
                 <div>Le site ne propose pas de paiement en ligne et la commande est 
-                finalisee aupres du commer&ccedil;ant.
+                finalis&eacute;e aupr&egrave;s du commer&ccedil;ant.
                 </div>
             </div>
             </div>
@@ -77,16 +77,16 @@ export function homePlansSection() {
 
                     <div class="pricing-card-back">
                         <div class="plan-advantages">
-                            <div >Design adapté à vos besoins &#10004;</div>
+                            <div >Design adapt&eacute; à vos besoins &#10004;</div>
                             <div>100% responsive design &#10004;</div>
                             <div>Optimisation de votre positionnement web &#10004;</div>
                             <div>Ligne whatsapp incluse &#10004;</div>
-                            <div>Jusqu’à 7 pages &#10004;</div>
-                            <div>Categorie de produits &#10060;</div>
+                            <div>Jusqu’&agrave; 7 pages &#10004;</div>
+                            <div>Cat&eacute;gorie de produits &#10060;</div>
                             <div>System de trie par produit &#10060;</div>
                             <div>Hebergement &#10004;</div>
                             <div>Livraison entre 10 à 14 jours &#10004;</div>
-                            <div>Support apres livraison &#10004;</div>
+                            <div>Support apr&egrave;s livraison &#10004;</div>
                         </div>
                         <div class='card-back-price'>
                             2199.00 Dhs
@@ -103,16 +103,16 @@ export function homePlansSection() {
 
                     <div class="pricing-card-back">
                         <div class="plan-advantages">
-                            <div >Design adapté à vos besoins &#10004;</div>
+                            <div >Design adapt&eacute; à vos besoins &#10004;</div>
                             <div>100% responsive design &#10004;</div>
                             <div>Optimisation de votre positionnement web &#10004;</div>
                             <div>Ligne whatsapp incluse &#10004;</div>
-                            <div>Jusqu’à 7 pages &#10004;</div>
-                            <div>Categorie de produits &#10004;</div>
+                            <div>Jusqu’&agrave; 7 pages &#10004;</div>
+                            <div>Cat&eacute;gorie de produits &#10004;</div>
                             <div>System de trie par produit &#10004;</div>
                             <div>Hebergement &#10004;</div>
-                            <div>Livraison entre 14 à 21 jours &#10004;</div>
-                            <div>Support apres livraison &#10004;</div>
+                            <div>Livraison entre 10 à 14 jours &#10004;</div>
+                            <div>Support apr&egrave;s livraison &#10004;</div>
                         </div>
                         <div class='card-back-price'>
                             2699.00 Dhs
