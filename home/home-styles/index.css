@@ -3,6 +3,7 @@
 .home-page {
     margin: 5%;
     padding: 2%;
+    padding-bottom: 5%;
     
     /* The core glass blur effect */
     backdrop-filter: blur(12px);
