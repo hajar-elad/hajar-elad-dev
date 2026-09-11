@@ -16,7 +16,7 @@ export function homeTopSectionAdvantages(){
                 </div>
         
             </div>
-            <a href="https://wa.me/212701131213" class="whatsapp-icon-link" target="_blank" title="Je suis joignable sur whatsapp" class="message-link-advantages">
+            <a href="https://wa.me/212701131213" class="message-link-advantages" target="_blank" title="Je suis joignable sur whatsapp" >
                &rArr; envoyer un message
             </a>
         `

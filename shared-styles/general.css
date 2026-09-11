@@ -1,6 +1,6 @@
 body {
     margin: 0;
-    background-image: url('../images/background/bg1.jpg');
+    background-image: url('../images/background/bg1.webp');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -29,13 +29,6 @@ h2 {
     margin-top: 1%;
 }
 
-a{
-   color: rgb(247, 235, 246);
-}
-
-a:visited {
-   color: rgb(247, 235, 246);
-}
 
 @keyframes animationBg {
     0% {

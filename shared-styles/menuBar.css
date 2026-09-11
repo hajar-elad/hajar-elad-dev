@@ -25,13 +25,18 @@
     text-decoration: none;
     text-align: end;
     transition: transform 0.2s ease;
-      text-decoration: underline;
+    text-decoration: underline;
     text-underline-offset: 4px;
+    color: rgb(247, 235, 246);
 }
 
 .navigation-link:hover {
     color: rgb(96, 160, 233);
     transform: scale(1.03);
+}
+
+.navigation-link:visited{
+    color: rgb(247, 235, 246);
 }
 
 @media (max-width: 750px) {
