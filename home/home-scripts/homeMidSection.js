@@ -111,7 +111,7 @@ export function homePlansSection() {
                             <div>Cat&eacute;gorie de produits &#10004;</div>
                             <div>System de trie par produit &#10004;</div>
                             <div>Hebergement &#10004;</div>
-                            <div>Livraison entre 10 à 14 jours &#10004;</div>
+                            <div>Livraison entre 14 à 21 jours &#10004;</div>
                             <div>Support apr&egrave;s livraison &#10004;</div>
                         </div>
                         <div class='card-back-price'>
