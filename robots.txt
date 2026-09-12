@@ -1,0 +1,2 @@
+sitemap:
+https://hajareladev.ma/sitemap.xml
