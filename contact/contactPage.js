@@ -42,7 +42,7 @@ function contactSection(){
 }
 
 document.querySelector('.header')
-    .innerHTML = header();
+    .innerHTML = header('../');
 
 document.querySelector('.contact-section')
     .innerHTML = contactSection();

@@ -7,7 +7,7 @@ import { footer } from "../../shared-scripts/footer.js";
 const logoIcon = './images/icons/logoIcon.png';
  
 document.querySelector('.header')
-    .innerHTML = header();
+    .innerHTML = header('./');
 
 document.querySelector('.home-advantages-section')
     .innerHTML = homeTopSectionAdvantages();

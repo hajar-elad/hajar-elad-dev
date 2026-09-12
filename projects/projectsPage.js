@@ -25,7 +25,7 @@ function projectsPage(){
 }
 
 document.querySelector('.header')
-    .innerHTML = header();
+    .innerHTML = header('../');
 
 document.querySelector('.projects-page-section')
     .innerHTML = projectsPage();

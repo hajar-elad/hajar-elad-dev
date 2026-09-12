@@ -1,5 +1,6 @@
 body {
     margin: 0;
+    background-color: rgb(52, 93, 119);
     background-image: url('../images/background/bg1.webp');
     background-repeat: no-repeat;
     background-size: cover;
