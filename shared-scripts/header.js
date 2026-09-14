@@ -4,7 +4,7 @@ export function header(route) {
         <div class='brand-container'>
             <div>
                 <h1 class="full-name">Hajar El Adnani</h1>
-                <div class='job-title'>Web Developper - FreeLancer</div>
+                <div class='job-title'>Web Developer - FreeLancer</div>
             </div>
             <img src="${route}images/icons/logoicon.png" class="logo-icon"/>
         </div>

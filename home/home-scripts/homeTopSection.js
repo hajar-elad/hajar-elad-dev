@@ -9,6 +9,9 @@ export function homeTopSectionAdvantages(){
                     Un site web s&eacute;curis&eacute; &#10004;
                 </div>
                 <div class='advantages'>
+                    Qualit&eacute; agence web &#10004;
+                </div>
+                <div class='advantages'>
                     Livraison rapide &#10004;
                 </div>
                 <div class='advantages'>
