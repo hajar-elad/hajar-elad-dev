@@ -5,7 +5,7 @@ function contactSection(){
     const html = `
                 <div class="location">
                 <div class="find-us">
-                <div>TROUVEZ-MOI ICI </div>
+                <div>TROUVEZ-MOI ICI ( Maroc - Casablanca - Bourgogne )</div>
                 <a href="https://www.google.com/maps/dir//Bd+de+Bourgogne+Casablanca+20250/@33.5962093,-7.6482737,14z/data=!4m8!4m7!1m0!1m5!1m1!1s0xda7d2fb130ffd4f:0x82911cb5524c97c8!2m2!1d-7.6482737!2d33.5962093?entry=ttu&g_ep=EgoyMDI1MTEyMy4xIKXMDSoASAFQAw%3D%3D"
                     target="_blank">
                     <img class="location-icon" src="">
