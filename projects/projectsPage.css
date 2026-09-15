@@ -85,7 +85,7 @@
 .project-image-l:hover{
     z-index: 21;
     height: 90vh;
-    width: 100%;
+    width: 85vw;
     transform: rotateY(0);
 }
 
