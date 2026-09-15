@@ -8,11 +8,12 @@ function projectsPage(){
     projects.forEach((project) => {
         html += `
         <div class="project-container">
-        <div class="project-images-container">
-        <img src="${project.firstImage}" class="project-image-f">
-        <img src=${project.lastImage} class="project-image-l">
-        </div>
-        <div class="project-name">${project.title}</div>
+            <div class="project-images-container">
+                <img src="${project.firstImage}" alt="${project.description}" class="project-image-f">
+                <img src=${project.lastImage} class="project-image-l">
+            </div>
+            <div class="project-name">${project.title}</div>
+            <div class="project-description">${project.description}</div>
         </div>
         `
     })

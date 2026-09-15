@@ -1,45 +1,9 @@
 import { header } from "../shared-scripts/header.js";
 import { footer } from "../shared-scripts/footer.js";
 
-function contactSection(){
-    const html = `
-            <div class="location">
-                <div> TROUVEZ-MOI ICI ( Maroc - Casablanca - Bourgogne )</div>
-                <div class="map-container">
-                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13292.981608305588!2d-7.650100005468616!3d33.5989366461897!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xda7d2f3c5917987%3A0x193194fbb00eed9c!2sBourgogne%2C%20Casablanca%2020250%2C%20Morocco!5e0!3m2!1sen!2sus!4v1785174923646!5m2!1sen!2sus" 
-                    style="border:0;" allowfullscreen="" loading="lazy" 
-                    referrerpolicy="strict-origin-when-cross-origin"></iframe>
-                </div>
-            </div>
-
-            <div class="contact-us">  
-            <div> Contact:</div>
-            <div class="phone-nbr">
-                <a href="https://wa.me/212701131213" class="contact-link" target="_blank" title="Je suis joignable sur whatsapp">
-                    00212 701 13 12 13
-                </a>
-            </div>
-            <div class="email">
-                <a href="mailto:hajar.elad@gmail.com" class="contact-link">
-                    hajar-elad@gmail.com
-                </a>
-            </div>
-            <div class="email-colab">
-                <div>Collaborations:</div>
-                <a href="mailto:hajar.elad@gmail.com" class="contact-link">
-                    hajar.elad.collabs@gmail.com
-                </a>
-            </div>
-            </div>`;
-    
-    return html;
-}
 
 document.querySelector('.header')
     .innerHTML = header('../');
-
-document.querySelector('.contact-section')
-    .innerHTML = contactSection();
 
 document.querySelector('.footer')
     .innerHTML = footer();
