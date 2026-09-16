@@ -9,6 +9,7 @@ body {
     color: rgb(247, 235, 246);
     max-width: 100vw;
     min-height: 100vh;
+    font-family: serif;
 }
 
 h1,
@@ -26,7 +27,6 @@ h2 {
 h2 {
     font-size: 15px;
     text-decoration: none;
-    line-height: 0.4;
     margin-top: 1%;
 }
 

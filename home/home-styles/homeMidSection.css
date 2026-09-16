@@ -49,7 +49,7 @@
 .contact-about-section {
   font-style: italic;
 }
-
+ 
 /*-------------- Plan section Styles ---------------*/
 
 .home-plans-section {
@@ -105,7 +105,7 @@
   align-items: center;
   justify-content: center;
   flex-wrap: wrap;
-  gap: 40px;
+  gap: 5vw;
 }
 
 .pricing-card-container {
@@ -145,7 +145,7 @@
   flex-direction: column;
   align-items: center;
   justify-content: space-around;
-  border: solid 1px rgb(243, 197, 211);
+  border: solid 1px rgb(178, 226, 238);
 }
 
 /* Distinct styling for the front face */
@@ -156,11 +156,11 @@
   /* Safari support */
 
   /* Soft border representing light catching the glass edge */
-  border: 1px solid rgba(255, 255, 255, 0.25);
+  border: 1px solid rgba(255, 255, 255, 0.212);
   /* Smooth corners look best with glass */
   border-radius: 16px;
   /* Adds depth and shadows underneath the pane */
-  box-shadow: 0 4px 16px 0 rgba(0, 0, 0, 0.15);
+  box-shadow: 0 4px 16px 0 rgba(167, 200, 228, 0.315);
   justify-content: center;
   
   color: rgb(187, 181, 194);
@@ -176,4 +176,13 @@
   font-size: large;
   width: 100%;
   padding: 3%;
+}
+
+.message-link-container{
+  width: 240px;
+  text-align: center;
+}
+
+.message-link-container .message-link-advantages{
+  margin: 0;
 }
