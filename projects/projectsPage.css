@@ -64,7 +64,7 @@
 }
 
 .project-images-container:hover {
-    height: 90vh;
+    height: 85vh;
 }
 
 .project-image-f,
@@ -103,7 +103,6 @@
 .project-description {
     max-width: 400px;
 }
-
 
 @media (min-width: 800px) {
 
