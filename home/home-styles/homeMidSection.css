@@ -105,13 +105,13 @@
   align-items: center;
   justify-content: center;
   flex-wrap: wrap;
-  gap: 5vw;
+  gap: 7vw;
 }
 
 .pricing-card-container {
   background-color: transparent;
   width: 240px;
-  height: 400px;
+  height: 340px;
   perspective: 1000px;
   /* Crucial for the 3D depth effect */
 }
@@ -185,4 +185,6 @@
 
 .message-link-container .message-link-advantages{
   margin: 0;
+  font-size: 17px;
+  color: rgb(187, 181, 194);
 }
