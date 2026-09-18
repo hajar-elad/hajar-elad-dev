@@ -19,7 +19,8 @@ function projectsPage(){
     })
 
     html =` 
-        <h1 class="Project-Page-title">Projects & TEMPLATES Site Vitrine - Site Cataog</h1> 
+        <h1 class="project-page-title">Projects & TEMPLATES </h1> 
+        <h2 class="project-page-title-second">Site Vitrine - Site Cataog</h2>
         ${html}
     `
     return html;
