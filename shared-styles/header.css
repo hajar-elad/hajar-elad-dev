@@ -8,6 +8,10 @@
 .full-name {
     text-wrap: nowrap;
     text-decoration: none;
+    letter-spacing: -0.05em;
+    line-height: 0.7;
+    font-size: larger;
+    color: inherit;
 }
 
 .job-title {

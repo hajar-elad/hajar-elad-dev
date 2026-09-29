@@ -3,7 +3,7 @@ export function header(route) {
     const html = `
         <div class='brand-container'>
             <div>
-                <h1 class="full-name">Hajar El Adnani</h1>
+                <a href="${route}" class="full-name">HAJAR EL ADNANI</a>
                 <div class='job-title'>Web Developer - FreeLancer</div>
             </div>
             <img src="${route}images/icons/logoicon.png" class="logo-icon"/>
