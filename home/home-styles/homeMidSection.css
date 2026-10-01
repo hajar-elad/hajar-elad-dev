@@ -93,6 +93,11 @@
 
 }
 
+.link-to-project{
+  color: rgb(210, 217, 231);
+  text-underline-offset: 2px;
+}
+
 .plan-advantages {
   display: flex;
   flex-direction: column;
@@ -186,5 +191,5 @@
 .message-link-container .message-link-advantages {
   margin: 0;
   font-size: 17px;
-  color: rgb(187, 181, 194);
+  color: rgb(210, 217, 231);
 }

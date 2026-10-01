@@ -79,6 +79,10 @@
     color: rgb(162, 174, 199);
 }
 
+.wsp-icon{
+    width: 17px;
+}
+
 .three-d-image-model{
     margin-top: -2%;
     transform: scaleX(-1);

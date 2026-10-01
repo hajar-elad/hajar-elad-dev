@@ -71,6 +71,10 @@ iframe {
     border-radius: 10px;
 }
 
+.wsp-icon-contact-page{
+    width: 21px;
+}
+
 .email-colab{
     display: flex;
     flex-direction: column;
