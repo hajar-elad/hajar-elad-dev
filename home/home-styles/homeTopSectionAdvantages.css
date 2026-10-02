@@ -44,7 +44,6 @@
 }
 
 .advantages {
-    
     display: flex;
     align-items: center;
     font-size: 15px;
@@ -52,6 +51,7 @@
     transition: transform 0.3s ease;
     letter-spacing: normal;
     line-height: normal;
+    margin: 0.5em 0;
 }
 
 
