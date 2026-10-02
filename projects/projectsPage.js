@@ -19,8 +19,7 @@ function projectsPage(){
     })
 
     html =` 
-        <h1 class="project-page-title">Projects & TEMPLATES </h1> 
-        <h2 class="project-page-title-second">Site Vitrine - Site Cataog</h2>
+        
         ${html}
     `
     return html;
@@ -29,7 +28,7 @@ function projectsPage(){
 document.querySelector('.header')
     .innerHTML = header('../');
 
-document.querySelector('.projects-page-section')
+document.querySelector('.projects-container')
     .innerHTML = projectsPage();
 
 document.querySelector('.footer')

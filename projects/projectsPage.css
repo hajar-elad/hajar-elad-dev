@@ -20,6 +20,22 @@
 
 .projects-page-section {
     margin-top: 10vw;
+    
+}
+
+.projects-container{
+
+}
+
+.contact-link-projects{
+    position: fixed;
+    right: 7%;
+    bottom: 10%;
+    z-index: 100;
+}
+
+.wsp-icon-projects-page{
+    width: 55px;
 }
 
 .project-page-title,
