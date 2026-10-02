@@ -37,15 +37,15 @@
 }
 
 .brand-container {
-    padding-top: 3px;
     gap: 17px;
 }
 
 .brand-container,
 .menu-bar {
+    padding-top: 3px;
     display: flex;
     flex: 1;
-    align-items: center;
+    align-items: start;
 }
 
 @media (max-width: 420px) {
