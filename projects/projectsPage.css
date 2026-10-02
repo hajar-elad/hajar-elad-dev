@@ -64,7 +64,6 @@
 }
 
 .project-images-container:hover {
-    height: 85vh;
 }
 
 .project-image-f,
@@ -95,7 +94,7 @@
 .project-image-f:hover,
 .project-image-l:hover {
     z-index: 21;
-    height: 90vh;
+    height: 97%;
     width: 85vw;
     transform: rotateY(0);
 }
